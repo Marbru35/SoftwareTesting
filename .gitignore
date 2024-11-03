@@ -1,5 +1,5 @@
 # IntelliJ IDEA spezifische Dateien
-./.idea
+.idea/
 
 # Java-Build-Ausgaben
 /target/
