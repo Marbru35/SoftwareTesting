@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Marlon Spiess
+
+SPDX-License-Identifier: MIT
+-->
+
 # SoftwareTesting
 
 This project contains Java classes for implementing basic mathematical and data structure-related functions, including a MyMaths class for calculating the greatest common divisor (GCD) and a Stack class that provides a simple stack data structure. Tests for these functions are also implemented and located in the test directory.
