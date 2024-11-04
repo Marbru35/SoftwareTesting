@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Marlon Spiess
+//
+// SPDX-License-Identifier: MIT
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Marlon Spiess
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Die Klasse Stack implementiert eine einfache Datenstruktur für einen Stapel (Stack),
  * die die Grundoperationen eines Stapels unterstützt: Push, Pop, Top, Überprüfung auf Leere und die Größe des Stapels.

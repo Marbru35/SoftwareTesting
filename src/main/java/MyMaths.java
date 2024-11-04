@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Marlon Spiess
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Die Klasse MyMaths bietet mathematische Hilfsfunktionen.
  * Insbesondere beinhaltet sie eine Methode zur Berechnung des größten gemeinsamen Teilers (ggT)
